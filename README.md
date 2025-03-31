@@ -3,7 +3,9 @@
 
 ## Guia de Uso
 
-### Passo 1: Baixe o arquivo ou copie o código com o nome abaixo
+### Passo 1: Baixe o arquivo ou copie o código contido no repositório
+
+   Nome do Arquivo é:
    ```bash
    Ab2_1_Joao_Victor_billinear_transform.m
    ```
