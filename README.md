@@ -1,2 +1,2 @@
-# PDS
-Disciplina de Processamento Digital de Sinais
+# AB2 - Parte 1
+ Análise da transformação bilinear de um filtro Butterworth
